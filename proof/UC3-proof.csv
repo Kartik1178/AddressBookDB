@@ -1,0 +1,4 @@
+id,firstName,lastName,address,city,state,zip,phoneNumber,email
+1,Kartikeya,Pusapati,Guduvancheri,Chennai,TN,603202,9876543210,kartik@email.com
+2,Rahul,Sharma,"Indira Nagar",Bangalore,KA,560038,9123456789,rahul@email.com
+3,Anita,Reddy,"Banjara Hills",Hyderabad,TS,500034,9988776655,anita@email.com
