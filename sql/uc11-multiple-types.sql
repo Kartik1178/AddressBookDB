@@ -1,0 +1,4 @@
+CREATE TABLE AddressBookType (
+    typeId INT AUTO_INCREMENT PRIMARY KEY,
+    typeName VARCHAR(50)
+);
